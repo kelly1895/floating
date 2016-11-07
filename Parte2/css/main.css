@@ -1,0 +1,24 @@
+.contenedor{
+    border: 2px black solid;
+}
+
+.box1{
+    background: yellow;
+    width: 200px;
+    height: 150px;
+    float: left;
+    
+}
+
+.box2{
+    background: blue;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+.box3{
+    background: #FF69B4;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
